@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack Project<br>🌱 I’m currently learning Cloud Computing<br>
+🔭 I’m currently working on NextJS Project<br>🌱 I’m currently learning Cloud Computing<br>Making a ReactNative App Too! 📱
 
 
 ## 🌐 Socials:
