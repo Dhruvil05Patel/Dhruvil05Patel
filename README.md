@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NextJS Project<br>🌱 I’m currently learning Cloud Computing<br>Making a ReactNative App Too! 📱
+🔭 I’m currently working on NextJS Project<br>🌱 I’m currently learning Cloud Computing
 
 
 ## 🌐 Socials:
