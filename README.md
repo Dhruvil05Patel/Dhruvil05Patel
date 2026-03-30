@@ -16,7 +16,7 @@ Shipping backend systems, automation pipelines & full-stack products. Curious ab
 
 ## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dhruvil05Patel" alt="trophy" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dhruvil05Patel)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Activity Graph
 
