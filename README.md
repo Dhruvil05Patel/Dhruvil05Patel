@@ -14,10 +14,6 @@ Shipping backend systems, automation pipelines & full-stack products. Curious ab
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvil05Patel&theme=null" alt="GitHub Streak" />
 
-## GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dhruvil05Patel)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvil05Patel&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
